@@ -1,2 +1,3 @@
 This is a file I made
 and later edited
+I have managed to edit the file wsots (Simeon) created here, as I have no write access to, GitHub is going to create a fork of this project for me so I can commit my proposed changes to. I am sure that once I submit a change here GitHub will create a new branch in my fork, so I can send a pull request. I believe I am responding to the previous instruction per Simeon instruction: we are to create a new branches!
